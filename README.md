@@ -63,5 +63,6 @@ int main(){
 ---
 
 ## __Output__
+![Screenshot 2023-04-12 094920](https://user-images.githubusercontent.com/113619312/233917723-47552b19-9a20-4449-a9f1-fab29e6dadcb.png)
 
 
